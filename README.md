@@ -8,7 +8,7 @@ Desenvolvedor
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroSantos9015&layout=compact&langs_count=7&theme=dracula"/></a>
 </div>
   
-- 👀 Repositório dedicados a alguns projetos e futuros portfólios
+- 👀 Repositório dedicado a alguns projetos e futuros portfólios
 - 🌱 Descobrindo o mundo do Front-End com Angular e React
 - 💞️ Estudando React-Native 
 - 📫 Disponível pra trocar experiências e quem sabe parcerias
